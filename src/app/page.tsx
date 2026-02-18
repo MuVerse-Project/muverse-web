@@ -4,7 +4,7 @@ import {MuVerseMemberCard} from "@mupack/muverse-member-info";
 export default function Home() {
     return (
         <div>
-            <div className="min-h-screen mx-0 md:mx-30 bg-zinc-900 flex flex-col items-center justify-center text-black dark:text-white">
+            <div className="min-h-screen px-10 md:px-0 md:mx-30 bg-zinc-900 flex flex-col items-center justify-center text-black dark:text-white">
                 <div className="flex flex-row justify-center items-center">
                     <MuVerse width="300px" height="300px"/>
                 </div>
