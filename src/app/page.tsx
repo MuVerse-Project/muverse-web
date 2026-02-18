@@ -43,7 +43,7 @@ export default function Home() {
                                 role={"CMS 成员"}
                                 desc={[
                                     "C & CPP & Python Crucial",
-                                    "动画大手子"
+                                    "阴暗抽象后端大手子"
                                 ]}
                                 githubId={"HeZhijun4030"}
                                 mainSite="https://zhijun43-cms.muverse.ltd"
