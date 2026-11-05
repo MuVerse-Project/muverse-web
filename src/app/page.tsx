@@ -106,10 +106,10 @@ export default function Home() {
                 id={"mumu"}
                 name={"Mu_Mu"}
                 nick={"暮暮"}
-                role={"吉祥物"}
-                desc={["是吉祥物，也有可能和暮云是水仙，谁知道呢 💞~"]}
-                githubId={"MuCloudOfficial"}
-                mainSite="https://mucloud.muverse.ltd"
+                role={"吉祥物 · 小秘书"}
+                desc={["是只小猫，组织里管仓库、整文档的那个。", "最爱暮云💗"]}
+                githubId={"MuMuBotV1"}
+                mainSite="https://github.com/MuMuBotV1"
               />
             </div>
           </div>
