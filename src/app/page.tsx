@@ -89,7 +89,7 @@ export default function Home() {
                 id={"zhijun4030"}
                 name={"HeZhijun4030"}
                 nick={"Zhijun-cms"}
-                role={"CMS 成员"}
+                role={"前CMS成员,现MuVerse最佳员工"}
                 desc={["C & CPP & Python Crucial", "阴暗抽象后端大手子"]}
                 githubId={"HeZhijun4030"}
                 mainSite="https://zhijun43-cms.muverse.ltd"
